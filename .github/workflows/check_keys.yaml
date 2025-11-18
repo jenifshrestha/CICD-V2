@@ -3,7 +3,7 @@ name: "Check Key access to Server"
 on:
   push:
       branches:
-        - 'feat/*'
+        - main
 
 jobs:
   check-keys:
